@@ -1,14 +1,58 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "gmt": "",
+        "addressPostalCode": "98104",
+        "phoneNumber": "206-674-3400",
+        "holidaysAndClosures": "",
+        "phoneNumberCountryCode": "1",
+        "longitude": "-122.334604",
+        "legalName": "Expeditors International of Washington, Inc.",
+        "latitude": "47.60592",
+        "branchType": "Office",
+        "commonName": "Expeditors - Seattle Corporate",
+        "email": "",
+        "addressCity": "Seattle",
+        "faxNumber": "",
+        "addressLine": "1015 Third Ave",
+        "businessHours": "",
+        "addressState": "WA",
+        "addressCountry": "USA",
+        "metroName": "Seattle Corporate",
+        "isRegionalHeadquarters": true,
+        "isCorporateHeadquarters": true,
+        "addressLine3": "",
+        "phoneNumberInternationalDialingPrefix": "11",
+        "addressLine1": "1015 Third Ave",
+        "isCountryHeadquarters": false,
+        "branchCode": "CHQ",
+        "addressLine2": ""
+    },
+    {
+        "gmt": "",
+        "addressPostalCode": "BP 66",
+        "phoneNumber": "21252717",
+        "holidaysAndClosures": "",
+        "phoneNumberCountryCode": "225",
+        "longitude": "-4.005203",
+        "legalName": "Packing Service International",
+        "latitude": "5.395223",
+        "branchType": "Agent",
+        "commonName": "Expeditors - Abidjan",
+        "email": "",
+        "addressCity": "Abidjan 07",
+        "faxNumber": "",
+        "addressLine": "Rue G 30 des Majorettes\r\nBP 66 Abidjan\r\nIvory Coast",
+        "businessHours": "",
+        "addressState": "",
+        "addressCountry": "Ivory Coast",
+        "metroName": "Abidjan",
+        "isRegionalHeadquarters": false,
+        "isCorporateHeadquarters": false,
+        "addressLine3": "Ivory Coast",
+        "phoneNumberInternationalDialingPrefix": "0",
+        "addressLine1": "Rue G 30 des Majorettes",
+        "isCountryHeadquarters": false,
+        "branchCode": "ABJ",
+        "addressLine2": "BP 66 Abidjan"
+    }
+]
